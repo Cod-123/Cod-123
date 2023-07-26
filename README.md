@@ -45,6 +45,6 @@ I am a final year undergraduate student pursuing B.Tech Information Technology f
   </a>
 </p>
 
-Here are some ideas to get you started:
+
 
 
