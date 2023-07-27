@@ -8,7 +8,7 @@ I am a final year undergraduate student pursuing B.Tech Information Technology f
 <br>
 
 <p align="center">
-  <a href="https://github.com/culp-rits?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
+  <a href="https://github.com/Cod-123?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,flask,cpp,python,vscode,github,sqlite,bootstrap" alt="skill badges icons" />
   </a>
 </p>
